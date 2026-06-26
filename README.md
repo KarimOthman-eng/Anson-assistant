@@ -1,6 +1,6 @@
-# 🚲 Anson Bike Assistant
+# Anson Assistant
 
-## 📝 About The Project
+## 📝 About 
 This project is a smart Bike Assistant. The main goal of this project is to (write 2-3 sentences here explaining the core idea of your project and the problem it solves).
 
 ## ✨ Features
@@ -14,7 +14,7 @@ This project is built using:
 * **Wokwi:** For hardware and microcontroller circuit simulation.
 * **VS Code:** As the primary Integrated Development Environment (IDE).
 
-## 📁 Project Structure
+## 📁 Structure
 The repository is divided into two main parts:
 * `Python_vscode/`: Contains Python scripts for serial communication or data analysis.
 * `Wokwi_project/`: Contains the simulation files for the electronics (sensors, microcontrollers, etc.).
